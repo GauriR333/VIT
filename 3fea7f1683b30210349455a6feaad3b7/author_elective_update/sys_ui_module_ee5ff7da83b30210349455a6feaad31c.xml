@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Book">ea5ff7da83b30210349455a6feaad319</application>
+        <filter/>
+        <name>Books</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_374399_vit.book_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-06 08:45:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ee5ff7da83b30210349455a6feaad31c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Books</sys_name>
+        <sys_package display_value="VIT" source="x_374399_vit">3fea7f1683b30210349455a6feaad3b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VIT">3fea7f1683b30210349455a6feaad3b7</sys_scope>
+        <sys_update_name>sys_ui_module_ee5ff7da83b30210349455a6feaad31c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-06 08:45:07</sys_updated_on>
+        <table>x_374399_vit_book</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="VIT">3fea7f1683b30210349455a6feaad3b7</application>
+        <file_path/>
+        <instance_id>fb6ede52db894e182f082a59139619f8</instance_id>
+        <instance_name>dev248345</instance_name>
+        <name>sys_ui_module_ee5ff7da83b30210349455a6feaad31c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Book">ea5ff7da83b30210349455a6feaad319</application><filter/><name>Books</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_374399_vit.book_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-06 08:45:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ee5ff7da83b30210349455a6feaad31c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Books</sys_name><sys_package display_value="VIT" source="x_374399_vit">3fea7f1683b30210349455a6feaad3b7</sys_package><sys_policy/><sys_scope display_value="VIT">3fea7f1683b30210349455a6feaad3b7</sys_scope><sys_update_name>sys_ui_module_ee5ff7da83b30210349455a6feaad31c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-06 08:45:07</sys_updated_on><table>x_374399_vit_book</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-678464839</payload_hash>
+        <record_name>Books</record_name>
+        <reverted_from/>
+        <source>ffea7f1683b30210349455a6feaad3bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-06 08:45:07</sys_created_on>
+        <sys_id>765ff7da83b30210349455a6feaad320</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19126dd11f70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-06 08:45:07</sys_updated_on>
+        <type>Module</type>
+        <update_guid>7a5ff7da46b302102ccf4aa6fc2c5b1f</update_guid>
+        <update_guid_history>7a5ff7da46b302102ccf4aa6fc2c5b1f:-678464839</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-06 09:34:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>149da106fb2c460f8a825fd46b7ea731</sys_id>
+        <sys_metadata>ee5ff7da83b30210349455a6feaad31c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Books</sys_name>
+        <sys_package display_value="VIT" source="x_374399_vit">3fea7f1683b30210349455a6feaad3b7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="VIT">3fea7f1683b30210349455a6feaad3b7</sys_scope>
+        <sys_scope_delete display_value="">1aacd5e1d8c1464daf45e03f3b693ef1</sys_scope_delete>
+        <sys_update_name>sys_ui_module_ee5ff7da83b30210349455a6feaad31c</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_ee5ff7da83b30210349455a6feaad31c">765ff7da83b30210349455a6feaad320</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-06 09:34:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

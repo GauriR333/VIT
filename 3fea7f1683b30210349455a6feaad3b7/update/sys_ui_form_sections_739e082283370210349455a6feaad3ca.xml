@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="739e082283370210349455a6feaad3ca" sys_domain="global" table="x_374399_vit_book" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-06 09:51:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48ae482283370210349455a6feaad324</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_374399_vit_book" name="x_374399_vit_book" sys_domain="global" view="Default view">739e082283370210349455a6feaad3ca</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_374399_vit_book" sys_domain="global" view="Default view">fe2d40ae83f30210349455a6feaad345</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-06 09:51:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-06 09:51:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04ae482283370210349455a6feaad325</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_374399_vit_book" name="x_374399_vit_book" sys_domain="global" view="Default view">739e082283370210349455a6feaad3ca</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_374399_vit_book" sys_domain="global" view="Default view">339e082283370210349455a6feaad3c9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-06 09:51:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_374399_vit_book</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-06 09:51:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>739e082283370210349455a6feaad3ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_374399_vit_book</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="VIT" source="x_374399_vit">3fea7f1683b30210349455a6feaad3b7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="VIT">3fea7f1683b30210349455a6feaad3b7</sys_scope>
+            <sys_update_name>sys_ui_form_sections_739e082283370210349455a6feaad3ca</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-06 09:51:50</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

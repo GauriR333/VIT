@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-06 09:41:41</sys_created_on>
+        <sys_id>cb4cc46e83f30210349455a6feaad3ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_374399_vit_book.x_374399_vit.book_user</sys_name>
+        <sys_package display_value="VIT" source="x_374399_vit">3fea7f1683b30210349455a6feaad3b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VIT">3fea7f1683b30210349455a6feaad3b7</sys_scope>
+        <sys_security_acl display_value="x_374399_vit_book">0f4cc46e83f30210349455a6feaad3a6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cb4cc46e83f30210349455a6feaad3ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-06 09:41:41</sys_updated_on>
+        <sys_user_role display_value="x_374399_vit.book_user" name="x_374399_vit.book_user">c25f7f9683b30210349455a6feaad3c4</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

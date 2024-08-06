@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="80ea08ea83f30210349455a6feaad320" label="Book" max_length="40" name="x_374399_vit_book" type="collection">
+        <element label="Enter the completed percentage value" max_length="40" name="enter_the_completed_percentage_value" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Is this request completed" max_length="40" name="u_choice_3" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element choice="1" label="Requested Type" max_length="40" name="requested_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="General" sequence="0" value="general"/>
+                <element inactive_on_update="false" label="Vulnerability" sequence="1" value="vulnerability"/>
+            </choice>
+        </element>
+        <element choice="1" label="Close Code" max_length="40" name="close_code" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Unsussessful" sequence="1" value="unsussessful"/>
+                <element inactive_on_update="false" label="Successful" sequence="0" value="successful"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Requested By" max_length="32" name="u_reference_4" reference="sys_user" type="reference"/>
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Close Code" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Successful" sequence="0" value="successful"/>
+                <element inactive_on_update="false" label="Unsuccessful" sequence="1" value="unsuccessful"/>
+            </choice>
+        </element>
+        <element label="Percentage Complete" max_length="40" name="u_integer_2" type="integer"/>
+        <element attributes="encode_utf8=false" label="Assigned To" max_length="32" name="u_reference_5" reference="sys_user" type="reference"/>
+        <element label="Percentage Complete" max_length="40" name="percentage_complete" type="integer"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Exception Type" max_length="40" name="exception_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Risk" sequence="0" value="risk"/>
+                <element inactive_on_update="false" label="Corrective Action Plan" sequence="1" value="corrective action plan"/>
+            </choice>
+        </element>
+        <element choice="1" label="Is this request completed" max_length="40" name="is_this_request_completed" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="u_reference_4"/>
+        </index>
+        <index name="index2">
+            <element name="u_reference_5"/>
+        </index>
+    </element>
+</database>

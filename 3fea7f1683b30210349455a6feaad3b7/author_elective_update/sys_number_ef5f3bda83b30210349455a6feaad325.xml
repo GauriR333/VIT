@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_374399_vit_book">x_374399_vit_book</category>
+        <maximum_digits>5</maximum_digits>
+        <number>1000</number>
+        <prefix>B</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-06 08:45:11</sys_created_on>
+        <sys_id>ef5f3bda83b30210349455a6feaad325</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>B</sys_name>
+        <sys_package display_value="VIT" source="x_374399_vit">3fea7f1683b30210349455a6feaad3b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VIT">3fea7f1683b30210349455a6feaad3b7</sys_scope>
+        <sys_update_name>sys_number_ef5f3bda83b30210349455a6feaad325</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-06 08:45:11</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="VIT">3fea7f1683b30210349455a6feaad3b7</application>
+        <file_path/>
+        <instance_id>fb6ede52db894e182f082a59139619f8</instance_id>
+        <instance_name>dev248345</instance_name>
+        <name>sys_number_ef5f3bda83b30210349455a6feaad325</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_374399_vit_book">x_374399_vit_book</category><maximum_digits>5</maximum_digits><number>1000</number><prefix>B</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-06 08:45:11</sys_created_on><sys_id>ef5f3bda83b30210349455a6feaad325</sys_id><sys_mod_count>0</sys_mod_count><sys_name>B</sys_name><sys_package display_value="VIT" source="x_374399_vit">3fea7f1683b30210349455a6feaad3b7</sys_package><sys_policy/><sys_scope display_value="VIT">3fea7f1683b30210349455a6feaad3b7</sys_scope><sys_update_name>sys_number_ef5f3bda83b30210349455a6feaad325</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-06 08:45:11</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>1876251673</payload_hash>
+        <record_name>B</record_name>
+        <reverted_from/>
+        <source>ffea7f1683b30210349455a6feaad3bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-06 08:45:12</sys_created_on>
+        <sys_id>b75f3bda83b30210349455a6feaad36e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19126dd21bd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-06 08:45:12</sys_updated_on>
+        <type>Number</type>
+        <update_guid>ab5f3bdadab30210658b61a01e38706d</update_guid>
+        <update_guid_history>ab5f3bdadab30210658b61a01e38706d:1876251673</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-06 09:34:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>0ed558523b494f589a98d5f9efc8d040</sys_id>
+        <sys_metadata>ef5f3bda83b30210349455a6feaad325</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>B</sys_name>
+        <sys_package display_value="VIT" source="x_374399_vit">3fea7f1683b30210349455a6feaad3b7</sys_package>
+        <sys_parent display_value="">b0acbf1683b30210349455a6feaad3a8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="VIT">3fea7f1683b30210349455a6feaad3b7</sys_scope>
+        <sys_scope_delete display_value="">1aacd5e1d8c1464daf45e03f3b693ef1</sys_scope_delete>
+        <sys_update_name>sys_number_ef5f3bda83b30210349455a6feaad325</sys_update_name>
+        <sys_update_version display_value="sys_number_ef5f3bda83b30210349455a6feaad325">b75f3bda83b30210349455a6feaad36e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-06 09:34:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
